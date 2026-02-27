@@ -27,7 +27,8 @@
 	"fd209165-e302-4289-968d-35bd9b5edcd3",
 	"14ef2eb6-0a46-4082-a137-e719e3afd95c",
 	"8eb15089-0cde-4336-889e-427079ebcf37",
-	"d55bb1ad-8368-42be-beb5-99733dc00143"
+	"d55bb1ad-8368-42be-beb5-99733dc00143",
+	"ca0aaf16-de6e-4bb0-aeca-748017215c22"
   ],
   "files": [
     {
@@ -67,4 +68,5 @@
       "url": "https://github.com/casper1new1-lgtm/tales/raw/refs/heads/main/Core.dll"
     }
   ]
+
 }
