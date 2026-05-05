@@ -33,7 +33,8 @@
 	"5b95a37b-5e6c-436b-91ed-f4de14e7dfca",
 	"ab3bd700-ac23-45e2-883a-b90a5b9eed61",
 	"c7d0b6c3-29c6-40c3-ba41-b12ff08c6602",
-	"641f6d13-357a-4937-b955-aaecb1b26f85"
+	"641f6d13-357a-4937-b955-aaecb1b26f85",
+	"80fd51a1-fcf9-4a37-b816-9bd229b2d38c"
 	  
   ],
   "files": [
@@ -42,8 +43,8 @@
       "url": "https://github.com/casper1new1-lgtm/tales/raw/refs/heads/main/interface.u"
     },
     {
-      "name": "system-eu/lineageeffect.u",
-      "url": "https://github.com/casper1new1-lgtm/tales/raw/refs/heads/main/lineageeffect.u"
+      "name": "system-eu/LineageEffect.u",
+      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect.u"
     },
 	{
       "name": "system-eu/lineageeffect2a.u",
